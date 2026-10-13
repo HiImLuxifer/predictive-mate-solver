@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Homework deliverables (not part of the prototype)
+Predictive_Regulated_Search_Homework.pdf
+report.md
+ai_decision_record.md
+
+# Reproducible outputs (regenerate with README instructions)
+results/
+logs/
+data/pairs.npz
+data/synthetic_backup/
